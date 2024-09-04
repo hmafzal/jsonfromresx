@@ -4,7 +4,7 @@ JSON From Resx is a node module that converts resource files (.resx) into JavaSc
 
 From there, it's easy to save out as a JSON file for use on front-end projects.
 
-## Why does it exist?
+## Why does it exist?jkl
 
 When I converted an asp.net MVC website into a cordova application for Android/iOS, server side rendering of HTML was no longer possible.
 
