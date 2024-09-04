@@ -7,7 +7,7 @@ From there, it's easy to save out as a JSON file for use on front-end projects.
 ## Why does it exist?
 
 When I converted an asp.net MVC website into a cordova application for Android/iOS, server side rendering of HTML was no longer possible.
-
+dsfasdfasf
 The easiest thing to do was convert the resource files into JSON and bundle them with the app.
 
 There weren't any up-to-date modules for this purpose at the time, so I created this module to meet that need.
